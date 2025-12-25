@@ -57,7 +57,7 @@ export default function Contact() {
               </span>
             </motion.a>
             <motion.a
-              href="https://www.linkedin.com/in/pravalli797"
+              href="https://www.linkedin.com/in/pravallika797"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05, y: -2 }}
@@ -107,7 +107,7 @@ export default function Contact() {
             </motion.a>
 
             <motion.a
-              href="https://www.linkedin.com/in/pravalli797"
+              href="https://www.linkedin.com/in/pravallika797"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05, y: -4 }}
